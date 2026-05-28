@@ -53,6 +53,9 @@ yarn-error.log*
 !.vscode/settings.json.example
 .idea/
 
+# claude code (config local, per-máquina)
+.claude/settings.local.json
+
 # logs
 logs
 *.log
